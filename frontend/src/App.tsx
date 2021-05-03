@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Hello DevSuperior</div>
+    <div className="text-primary">Hello DevSuperior</div>
   );
 }
 
